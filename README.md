@@ -13,10 +13,9 @@
 * Built a Flight_Fare_Prediction app that predicts the flight fare tickets that is useful for users while booking flight tickets.
 * Implemented Random forest regressor model to the data and hyper tuned using RandomSearchCV to produce the best result.
 
-* Deployed it on Heroku using Flask.
+* Deployed using Flask API.
 * Built Model on Amazon Sagemaker.
 
-Link: [https://flight-fare-prediction-api27.herokuapp.com/](https://flight-fare-prediction-api27.herokuapp.com/)
 
 ![Front end](https://imgur.com/N5PReqb.png)
 
@@ -68,7 +67,6 @@ MSE of GradientBoostingRegressor :  2166.1071423971985
 
 ## Model Deployment
 * Built a  flask API endpoint that was hosted on a local webserver using Flask.
-* Deployed it on Heroku platform.
 * After taking necessary input from the user returns the Flight Price.
 * Also, built and deployed the model using Amazon Sagemaker
 
