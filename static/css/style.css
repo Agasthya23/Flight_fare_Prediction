@@ -1,0 +1,36 @@
+
+
+input[type=text],select {
+
+  background-color: #4b3d8f;
+  color: #37a987;
+  display: inline-block;
+ 
+}
+
+
+input[type=submit] {
+  width: 50%;
+  background-color:#37a987 ;
+  color:#4b3d8f;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  
+  
+}
+input[type=submit]:hover {
+  background-color: #15644c;
+
+}
+
+
+div{
+  text-align:left;
+}
+
+
+
+
